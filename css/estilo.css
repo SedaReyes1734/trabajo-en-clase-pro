@@ -4,6 +4,14 @@ html{
     font-size:10px ;
     font-family:'Open sans ',sans-serif;
 }
+td img{
+    width : 200 px
+      }
+
+.imagen1
+     {
+    width : 200 px
+     }
 
 h1{
     font-size: 60px;
